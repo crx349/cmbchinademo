@@ -29,13 +29,13 @@ $config = [
     'return_url' => 'http://cmb.admin.com/cmb_ok.php', // 如果是h5支付，可以设置该值，返回到指定页面
 ];
 
-//一网通获取公钥地址(测试)
-$QueryKeyAPI_test = 'http://mobiletest.cmburl.cn/CmbBank_B2B/UI/NetPay/DoBusiness.ashx';
+//一网通获取公钥地址(测试) 应招商银行工程效能团队 友情提醒 先隐藏了 地址一网通主页找
+$QueryKeyAPI_test = '';
 //一网通下单地址(测试)
-$OneCardPayAPI_test = 'http://121.15.180.66:801/netpayment/BaseHttp.dll?MB_EUserPay';
-//$OneCardPayAPI_test ='http://paytest.cmburl.cn:801/netpayment/BaseHttp.dll?MB_EUserPay';
+$OneCardPayAPI_test = '';
+//$OneCardPayAPI_test ='';
 //查询订单
-$DoBusiness_test = 'http://121.15.180.66:801/netpayment_directlink_nosession/BaseHttp.dll?QuerySingleOrder';
+$DoBusiness_test = '';
 
 $nowTime = time();
 
