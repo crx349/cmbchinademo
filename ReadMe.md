@@ -22,6 +22,6 @@ CMB_test003~CMB_test004 和 CMB_test008~CMB_test009
 
 如果对您有帮助 麻烦给给star 谢谢
 
-代码不足部分 欢迎点击QQ号指导交流 ![842062626](http://www.xmspace.net/qq.gif "QQ联系")  
+代码不足部分 欢迎点击QQ号指导交流 [![842062626](http://www.xmspace.net/qq.gif "QQ联系")](https://wpa.qq.com/msgrd?v=3&uin=842062626&site=qq&menu=yes) 
     
     
